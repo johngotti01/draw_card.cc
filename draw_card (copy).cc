@@ -51,5 +51,3 @@ void getFace(int face){
   		cout <<"King";
 	}
 }
-
-
